@@ -1,3 +1,7 @@
 <application>
-  <component name="CppTools.Settings" gccPath="gcc" clangPath="clang" msvcdir="c:\Program Files\Microsoft Visual Studio .NET 2012\vc10" defines="WIN32;NDEBUG;_WINDOWS;_MBCS;_AFXDLL;_WIN32" launchGdbOnFailureCommand="/usr/X11/bin/xterm -e $gdb$ --directory=&quot;~/CF-C&quot;" gdbPath="gdb" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v8.6.0/bin/node">
+      <version-cache version="8.6.0" last-modified="1506460350000" />
+    </local-interpreter>
+  </component>
 </application>
