@@ -2,12 +2,19 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.o;*.obj;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".do_not_share_ebooks" type="PLAIN_TEXT" />
+      <mapping ext="ansi" type="ANSI Aware" />
       <mapping ext="toffee" type="CoffeeScript" />
       <removed_mapping ext="config" type="Erlang Terms" />
       <mapping ext="sdp" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="pseudo" type="PLAIN_TEXT" />
       <mapping ext="m" type="PLAIN_TEXT" />
+      <mapping ext="pcap" type="PLAIN_TEXT" />
+      <mapping ext="swift" type="PLAIN_TEXT" />
+      <mapping ext="pogo" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
