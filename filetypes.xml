@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="ansi" type="ANSI Aware" />
       <mapping pattern="cutelyst" type="Bash" />
     </extensionMap>
   </component>
