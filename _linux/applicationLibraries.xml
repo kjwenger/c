@@ -1,51 +1,25 @@
 <application>
   <component name="libraryTable">
     <library name="async-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_async_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_async_index.d.ts" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES />
     </library>
     <library name="chai-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_chai_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_chai_index.d.ts" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES />
     </library>
     <library name="mocha-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_mocha_index.d.ts" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_mocha_mocha-node.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_mocha_index.d.ts" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_mocha_mocha-node.d.ts" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES />
     </library>
-    <library name="scala-sdk-2.11.8" type="Scala">
-      <properties>
-        <compiler-classpath>
-          <root url="file:///usr/share/scala-2.11/lib/scala-reflect.jar" />
-          <root url="file:///usr/share/scala-2.11/lib/scala-library.jar" />
-          <root url="file:///usr/share/scala-2.11/lib/scala-compiler.jar" />
-        </compiler-classpath>
-      </properties>
+    <library name="scala-sdk-2.11.8">
       <CLASSES>
         <root url="jar:///usr/share/scala-2.11/lib/scala-reflect.jar!/" />
         <root url="jar:///usr/share/scala-2.11/lib/scala-parser-combinators.jar!/" />
@@ -53,21 +27,12 @@
         <root url="jar:///usr/share/scala-2.11/lib/scala-library.jar!/" />
         <root url="jar:///usr/share/scala-2.11/lib/scala-xml.jar!/" />
       </CLASSES>
-      <JAVADOC>
-        <root url="http://www.scala-lang.org/api/2.11.8/" />
-      </JAVADOC>
       <SOURCES />
     </library>
     <library name="seneca-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_seneca_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_seneca_index.d.ts" />
       </CLASSES>
-      <JAVADOC />
       <SOURCES />
     </library>
   </component>
