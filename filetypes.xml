@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping ext="toffee" type="CoffeeScript" />
       <mapping pattern=".do_not_share_ebooks" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="environment" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
