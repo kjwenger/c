@@ -1,0 +1,26 @@
+<application>
+  <component name="Osmorc">
+    <option name="frameworkInstanceDefinitions">
+      <list>
+        <FrameworkInstanceDefinition>
+          <option name="baseFolder" value="$USER_HOME$/Applications/felix-framework-5.6.10" />
+          <option name="frameworkIntegratorName" value="Felix" />
+          <option name="name" value="Felix (5.6.10)" />
+          <option name="version" value="5.6.10" />
+        </FrameworkInstanceDefinition>
+        <FrameworkInstanceDefinition>
+          <option name="baseFolder" value="$USER_HOME$/Applications/knopflerfish_osgi_6.1.2" />
+          <option name="frameworkIntegratorName" value="Knopflerfish" />
+          <option name="name" value="Knopflerfish (6.1.2)" />
+          <option name="version" value="6.1.2" />
+        </FrameworkInstanceDefinition>
+        <FrameworkInstanceDefinition>
+          <option name="baseFolder" value="$USER_HOME$/Applications/equinox-SDK-Oxygen.3a" />
+          <option name="frameworkIntegratorName" value="Equinox" />
+          <option name="name" value="Equinox (3.12.100.v20180210-1608)" />
+          <option name="version" value="3.12.100.v20180210-1608" />
+        </FrameworkInstanceDefinition>
+      </list>
+    </option>
+  </component>
+</application>
