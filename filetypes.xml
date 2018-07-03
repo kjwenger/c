@@ -6,14 +6,16 @@
       <mapping ext="tar" type="ARCHIVE" />
       <mapping pattern="cutelyst" type="Bash" />
       <mapping ext="toffee" type="CoffeeScript" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="environment" type="PLAIN_TEXT" />
       <mapping pattern=".do_not_share_ebooks" type="PLAIN_TEXT" />
+      <mapping pattern="environment" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".dockerconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="images" type="PLAIN_TEXT" />
       <mapping ext="pcap" type="PLAIN_TEXT" />
       <mapping ext="sdp" type="PLAIN_TEXT" />
       <mapping ext="bnd" type="PLAIN_TEXT" />
+      <mapping ext="ps" type="PLAIN_TEXT" />
       <mapping ext="swift" type="PLAIN_TEXT" />
       <mapping ext="pseudo" type="PLAIN_TEXT" />
       <mapping ext="m" type="PLAIN_TEXT" />
