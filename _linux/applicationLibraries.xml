@@ -20,6 +20,16 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="@types/nock" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/sequelize" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="@types/serialport" type="javaScript">
       <CLASSES />
       <JAVADOC />
