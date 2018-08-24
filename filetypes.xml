@@ -17,7 +17,6 @@
       <mapping ext="bnd" type="PLAIN_TEXT" />
       <mapping ext="pseudo" type="PLAIN_TEXT" />
       <mapping ext="ps" type="PLAIN_TEXT" />
-      <mapping ext="proto" type="PLAIN_TEXT" />
       <mapping ext="m" type="PLAIN_TEXT" />
       <mapping ext="pogo" type="PLAIN_TEXT" />
       <mapping ext="ansi" type="ANSI Aware" />
