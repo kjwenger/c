@@ -14,11 +14,11 @@
       <mapping ext="images" type="PLAIN_TEXT" />
       <mapping ext="pcap" type="PLAIN_TEXT" />
       <mapping ext="sdp" type="PLAIN_TEXT" />
-      <mapping ext="bnd" type="PLAIN_TEXT" />
-      <mapping ext="ps" type="PLAIN_TEXT" />
       <mapping ext="swift" type="PLAIN_TEXT" />
+      <mapping ext="bnd" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="pseudo" type="PLAIN_TEXT" />
-      <mapping ext="m" type="PLAIN_TEXT" />
+      <mapping ext="ps" type="PLAIN_TEXT" />
       <mapping ext="pogo" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
