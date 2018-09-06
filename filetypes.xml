@@ -6,6 +6,8 @@
       <mapping ext="tar" type="ARCHIVE" />
       <mapping pattern="cutelyst" type="Bash" />
       <mapping ext="toffee" type="CoffeeScript" />
+      <mapping pattern="qio-writer" type="JavaScript" />
+      <mapping pattern="qio-reader" type="JavaScript" />
       <mapping pattern=".do_not_share_ebooks" type="PLAIN_TEXT" />
       <mapping pattern="environment" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
