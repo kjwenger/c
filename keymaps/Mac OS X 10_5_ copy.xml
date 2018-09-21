@@ -1,7 +1,5 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="GotoChangedFile" />
-  <action id="GotoClass" />
-  <action id="OpenFile">
-    <keyboard-shortcut first-keystroke="meta o" />
+  <action id="StringManipulation.SwitchStyleAction">
+    <keyboard-shortcut first-keystroke="shift alt u" />
   </action>
 </keymap>

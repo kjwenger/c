@@ -5,11 +5,6 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="@types/expect" type="javaScript">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
     <library name="@types/joi" type="javaScript">
       <CLASSES />
       <JAVADOC />
@@ -20,7 +15,22 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="@types/mongodb" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/mongoose" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="@types/nock" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="@types/pg" type="javaScript">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
@@ -29,6 +39,18 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="@types/sqlite3" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Bundled Protobuf Distribution">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
+      </SOURCES>
     </library>
   </component>
 </application>
