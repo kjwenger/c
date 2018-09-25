@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="ansi" type="ANSI Aware" />
       <mapping pattern="cucumber" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
