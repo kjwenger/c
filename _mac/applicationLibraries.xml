@@ -45,6 +45,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="@types/yargs" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Bundled Protobuf Distribution">
       <CLASSES />
       <JAVADOC />
