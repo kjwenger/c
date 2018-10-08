@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="ansi" type="ANSI Aware" />
       <mapping pattern="cucumber" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="ansi" type="ANSI Aware" />
     </extensionMap>
   </component>
 </application>
