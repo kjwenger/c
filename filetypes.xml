@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="ansi" type="ANSI Aware" />
+      <mapping pattern="qio-gateway" type="JavaScript" />
       <mapping pattern="ppp0" type="PLAIN_TEXT" />
       <mapping pattern="eth0" type="PLAIN_TEXT" />
       <mapping pattern="wlan0" type="PLAIN_TEXT" />
       <mapping pattern="cucumber" type="PLAIN_TEXT" />
-      <mapping ext="ansi" type="ANSI Aware" />
     </extensionMap>
   </component>
 </application>
