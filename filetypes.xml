@@ -7,7 +7,6 @@
       <mapping pattern="eth0" type="PLAIN_TEXT" />
       <mapping pattern="wlan0" type="PLAIN_TEXT" />
       <mapping pattern="cucumber" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
