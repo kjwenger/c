@@ -35,6 +35,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="@types/lodash" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="@types/mocha" type="javaScript">
       <CLASSES />
       <JAVADOC />
@@ -106,14 +111,7 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="scala-sdk-2.11.8" type="Scala">
-      <properties>
-        <compiler-classpath>
-          <root url="file:///usr/share/scala-2.11/lib/scala-reflect.jar" />
-          <root url="file:///usr/share/scala-2.11/lib/scala-library.jar" />
-          <root url="file:///usr/share/scala-2.11/lib/scala-compiler.jar" />
-        </compiler-classpath>
-      </properties>
+    <library name="scala-sdk-2.11.8">
       <CLASSES>
         <root url="jar:///usr/share/scala-2.11/lib/scala-reflect.jar!/" />
         <root url="jar:///usr/share/scala-2.11/lib/scala-parser-combinators.jar!/" />
