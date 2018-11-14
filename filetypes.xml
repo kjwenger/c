@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="qio-reader" type="JavaScript" />
       <mapping pattern="qio-writer" type="JavaScript" />
+      <mapping ext="local" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
