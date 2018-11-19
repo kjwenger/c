@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="ansi" type="ANSI Aware" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
@@ -13,6 +14,8 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="qio-gateway" type="JavaScript" />
+      <mapping pattern="qio-reader" type="JavaScript" />
+      <mapping pattern="qio-writer" type="JavaScript" />
       <mapping pattern="ppp0" type="PLAIN_TEXT" />
       <mapping pattern=".bashrc" type="PLAIN_TEXT" />
       <mapping pattern=".profile" type="PLAIN_TEXT" />

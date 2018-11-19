@@ -1,46 +1,11 @@
 <application>
   <component name="libraryTable">
-    <library name="@types/chai" type="javaScript">
+    <library name="@types/bluebird" type="javaScript">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="@types/joi" type="javaScript">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="@types/mocha" type="javaScript">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="@types/mongodb" type="javaScript">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="@types/mongoose" type="javaScript">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="@types/nock" type="javaScript">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="@types/pg" type="javaScript">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="@types/sequelize" type="javaScript">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
-    <library name="@types/sqlite3" type="javaScript">
+    <library name="@types/lodash" type="javaScript">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
@@ -49,13 +14,6 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
-    </library>
-    <library name="Bundled Protobuf Distribution">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES>
-        <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
-      </SOURCES>
     </library>
   </component>
 </application>
