@@ -3,28 +3,26 @@
     <extensionMap>
       <mapping ext="ansi" type="ANSI Aware" />
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="qio-writer" type="JavaScript" />
       <mapping pattern="qio-gateway" type="JavaScript" />
       <mapping pattern="qio-reader" type="JavaScript" />
-      <mapping pattern="qio-writer" type="JavaScript" />
-      <mapping pattern="ppp0" type="PLAIN_TEXT" />
-      <mapping pattern=".bashrc" type="PLAIN_TEXT" />
-      <mapping pattern=".profile" type="PLAIN_TEXT" />
-      <mapping pattern="eth0" type="PLAIN_TEXT" />
-      <mapping pattern="ifconfig" type="PLAIN_TEXT" />
       <mapping pattern="wlan0" type="PLAIN_TEXT" />
-      <mapping pattern="cucumber" type="PLAIN_TEXT" />
+      <mapping pattern="ifconfig" type="PLAIN_TEXT" />
+      <mapping pattern="ppp0" type="PLAIN_TEXT" />
       <mapping pattern=".yarnignore" type="PLAIN_TEXT" />
+      <mapping pattern="cucumber" type="PLAIN_TEXT" />
+      <mapping pattern="eth0" type="PLAIN_TEXT" />
       <mapping ext="orig" type="PLAIN_TEXT" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
     </extensionMap>
   </component>
 </application>
