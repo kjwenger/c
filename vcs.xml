@@ -3,10 +3,14 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="kjwenger@yahoo.com" />
+          <option name="url" value="https://github.com/steveohara/j2mod.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="/com.github/steveohara" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
