@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'orchestra-industrie.bugfix-ORC-6956_OISB_BouncyCastle_versions_equal_ORC'" />
+    <option name="defaultScopeName" value="Project 'orchestra-industrie.bugfix-ORC-6956_OISB_BouncyCastle_versions_equal_ORC'" />
+    <option name="SEARCH_SCOPE" value="Project 'orchestra-industrie.bugfix-ORC-6956_OISB_BouncyCastle_versions_equal_ORC'" />
     <mask>*.java</mask>
     <mask>localized_strings.xml</mask>
   </component>
